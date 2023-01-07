@@ -11,3 +11,10 @@ git switch "nume" - ne mutam pe ramura "nume"
 git chekout -b "nume" - creem si ne mutam pe noul branch
 git branch -d "nume" - stergem ramura "nume"
 git merge "numeramura" - facem merge "numeramura" cu master
+
+fetch     Download objects and refs from another repository
+pull      Fetch from and integrate with another repository or a local branch
+push      Update remote refs along with associated objects
+
+
+
