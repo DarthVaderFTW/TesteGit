@@ -1,0 +1,13 @@
+git init - initializeaza git
+git status - status
+git add "numefisier" - ca sa nu mai fie untracked ((git add . - add all))
+git commit -m "mesaj" - commit
+git log - loguri
+git restore "numefisier" - reface fisierul sters (git restore --stage "nume")
+
+git branch - vedem ramurele
+git branch "nume" - creem ramura "nume"
+git switch "nume" - ne mutam pe ramura "nume"
+git chekout -b "nume" - creem si ne mutam pe noul branch
+git branch -d "nume" - stergem ramura "nume"
+git merge "numeramura" - facem merge "numeramura" cu master
